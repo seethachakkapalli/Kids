@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527299503088",
+    "project_id": "kids-7d2b5",
+    "storage_bucket": "kids-7d2b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527299503088:android:b1de8e8aa37e31d311f335",
+        "android_client_info": {
+          "package_name": "com.tmobile.kids"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3b05RD3_Sir49U0ssmhjA5BsJa1hlha4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
